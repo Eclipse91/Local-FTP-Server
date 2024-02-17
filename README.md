@@ -51,3 +51,7 @@ You can customize the FTP server's configuration by modifying the parameters in 
 This script is intended for educational and testing purposes, and it creates a fake FTP server. Please be cautious when using it in a production environment. Additionally, ensure that you have proper authorization before simulating any FTP server.
 
 Feel free to reach out for any questions or issues related to this script!
+
+## License
+
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
