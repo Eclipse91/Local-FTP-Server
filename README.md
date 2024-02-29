@@ -6,7 +6,7 @@ This Python script creates a simple FTP server using the `pyftpdlib` library. Th
 - Python 3.x
 - `pyftpdlib` library (install using `pip install pyftpdlib`)
 
-## Usage
+## Getting Started
 
 1. Clone the repository:
 
