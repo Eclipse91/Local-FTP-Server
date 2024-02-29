@@ -26,16 +26,13 @@ This Python script creates a simple FTP server using the `pyftpdlib` library. Th
    pip install -r requirements.txt
    ```
 
-4. Explore Configuration Below
-   Update the config.ini adding the parameters required
-   
-6. Run the application:
+4. Run the application:
 
    ```bash
-   python your_script_name.py
+   python local_server.py
    ```
 
-7. The script will start a fake FTP server on the specified host and port.
+5. The script will start a fake FTP server on the specified host and port.
 
 ## Configuration
 
