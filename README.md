@@ -28,13 +28,14 @@ This Python script creates a simple FTP server using the `pyftpdlib` library. Th
 
 4. Explore Configuration Below
    Update the config.ini adding the parameters required
-5. Run the application:
+   
+6. Run the application:
 
    ```bash
    python your_script_name.py
    ```
 
-5. The script will start a fake FTP server on the specified host and port.
+7. The script will start a fake FTP server on the specified host and port.
 
 ## Configuration
 
@@ -46,12 +47,12 @@ You can customize the FTP server's configuration by modifying the parameters in 
 - `password`: The password for FTP authentication (default is "password").
 - `root_directory`: The root directory for the FTP server (default is "./").
 
-## Note
-
-This script is intended for educational and testing purposes, and it creates a fake FTP server. Please be cautious when using it in a production environment. Additionally, ensure that you have proper authorization before simulating any FTP server.
-
-Feel free to reach out for any questions or issues related to this script!
-
 ## License
 
-This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
+
+## Notes
+
+Feel free to contribute or report issues!
+This README provides a clearer structure, concise information, and instructions for setting up and running the LocalFTP-Server. Adjust the content as needed for your project.
+
