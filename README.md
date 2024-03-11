@@ -1,4 +1,4 @@
-# LocalFTP Server
+# Local FTP Server
 
 This Python script creates a simple FTP server using the `pyftpdlib` library. The server is configured to run locally, and you can customize the host, port, user credentials, and root directory as needed.
 
@@ -11,13 +11,13 @@ This Python script creates a simple FTP server using the `pyftpdlib` library. Th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Eclipse91/LocalFTP-Server.git
+   git clone https://github.com/Eclipse91/Local-FTP-Server.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd LocalFTP-Server
+   cd Local-FTP-Server
    ```
 
 3. Install the required dependencies:
@@ -51,5 +51,5 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE
 ## Notes
 
 Feel free to contribute or report issues!
-This README provides a clearer structure, concise information, and instructions for setting up and running the LocalFTP-Server. Adjust the content as needed for your project.
+This README provides a clearer structure, concise information, and instructions for setting up and running the Local FTP-Server. Adjust the content as needed for your project.
 
