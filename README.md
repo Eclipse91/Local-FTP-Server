@@ -1,6 +1,6 @@
 # Local FTP Server
 
-This Python script creates a simple FTP server using the `pyftpdlib` library. The server is configured to run locally, and you can customize the host, port, user credentials, and root directory as needed.
+This Python script utilizes the pyftpdlib library to set up a basic FTP server. It's designed to run locally and offers flexibility for configuring parameters such as the host, port, user credentials, and root directory according to your requirements.
 
 ## Requirements
 - Python 3.x
