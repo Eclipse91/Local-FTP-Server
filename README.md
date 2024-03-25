@@ -4,7 +4,7 @@ This Python script utilizes the pyftpdlib library to set up a basic FTP server. 
 
 ## Requirements
 - Python 3.x
-- `pyftpdlib` library (install using `pip install pyftpdlib`)
+- Required Python packages are listed in the requirements.txt file
 
 ## Getting Started
 
